@@ -1,4 +1,4 @@
-# Project Name
+# WhereWeGo Senior Dev Technical Interview
 
 This mono repository contains a NextJS application and a NestJS API.
 
