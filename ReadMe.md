@@ -1,4 +1,4 @@
-# WhereWeGo Senior Dev Technical Interview
+# Job board NextJS + NestJS
 
 This mono repository contains a NextJS application and a NestJS API.
 
@@ -16,7 +16,7 @@ Follow the instructions below to run each project locally.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Oxbow-Education/technical-interview.git
+   git clone {URL}
 
 2. Navigate to the 'client' folder:
 
