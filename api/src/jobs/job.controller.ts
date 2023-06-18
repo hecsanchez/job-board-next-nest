@@ -13,7 +13,7 @@ export class JobController {
     @Query('sortBy') sortBy: string,
     @Query('query') query?: string,
   ) {
-    const { jobs, total } = await this.jobService.getJobs(
+    const { jobs: data, total } = await this.jobService.getJobs(
       page,
       lat,
       lng,
@@ -21,6 +21,6 @@ export class JobController {
       query,
     );
 
-    return { jobs, total };
+    return { data, total };
   }
 }
