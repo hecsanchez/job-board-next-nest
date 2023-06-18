@@ -1,5 +1,8 @@
 # Job board NextJS + NestJS
 
+https://github.com/hecsanchez/job-board-next-nest/assets/3080957/f95232ca-13ff-48db-96a5-53e4b948cd4d
+
+
 This mono repository contains a NextJS application and a NestJS API.
 
 ## Getting Started
